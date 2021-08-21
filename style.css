@@ -1,0 +1,32 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+.menubar ul{
+       list-style: none;
+}
+
+.menubar ul li a{
+       text-decoration: none;
+       color: white;
+       text-transform: capitalize;
+}
+.menubar ul li{
+    display: inline-block;
+    padding: 30px;
+}
+
+.menubar{
+    background-color: rgb(30, 255, 0);
+    
+}
+
+.menubar ul li:hover{
+    background-color: red;
+}
+
